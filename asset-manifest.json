@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/React-Anime-App/static/css/main.058f1997.css",
-    "main.js": "/React-Anime-App/static/js/main.312f78b1.js",
-    "static/media/ONE P.jpg": "/React-Anime-App/static/media/ONE P.2911e58bb1ed8a22be4e.jpg",
-    "static/media/onebanner.jpg": "/React-Anime-App/static/media/onebanner.57a051f0131fd6a9849a.jpg",
-    "static/media/narutoBanner.png": "/React-Anime-App/static/media/narutoBanner.995882776b1473ce438f.png",
-    "static/media/aot.jpg": "/React-Anime-App/static/media/aot.d3a997568982da1066e8.jpg",
-    "static/media/naruto.jpg": "/React-Anime-App/static/media/naruto.12e86621139c242c21fe.jpg",
-    "static/media/loginimg.png": "/React-Anime-App/static/media/loginimg.4f250d0aa66776469e37.png",
-    "static/media/bleachbanner.png": "/React-Anime-App/static/media/bleachbanner.efc7b213ed8565af38cb.png",
-    "static/media/onefolder.png": "/React-Anime-App/static/media/onefolder.03b3506b44b7dbe17c1d.png",
-    "static/media/bleach.jpg": "/React-Anime-App/static/media/bleach.98b29543b059abbc0513.jpg",
-    "static/media/aotbanner.jpeg": "/React-Anime-App/static/media/aotbanner.934b8cb244da84d17a32.jpeg",
-    "static/media/banner.jpg": "/React-Anime-App/static/media/banner.d158b3b3c7a316309bb0.jpg",
-    "static/media/searchimg.png": "/React-Anime-App/static/media/searchimg.1571adc2d68c532b38f2.png",
-    "static/media/df.jpg": "/React-Anime-App/static/media/df.c3059baf5a515b8942ee.jpg",
-    "static/media/main-logo.png": "/React-Anime-App/static/media/main-logo.f66e1e15c8a9dd53aa0f.png",
-    "index.html": "/React-Anime-App/index.html",
-    "main.058f1997.css.map": "/React-Anime-App/static/css/main.058f1997.css.map",
-    "main.312f78b1.js.map": "/React-Anime-App/static/js/main.312f78b1.js.map"
+    "main.css": "/React-App/static/css/main.058f1997.css",
+    "main.js": "/React-App/static/js/main.12b4daa7.js",
+    "static/media/ONE P.jpg": "/React-App/static/media/ONE P.2911e58bb1ed8a22be4e.jpg",
+    "static/media/onebanner.jpg": "/React-App/static/media/onebanner.57a051f0131fd6a9849a.jpg",
+    "static/media/narutoBanner.png": "/React-App/static/media/narutoBanner.995882776b1473ce438f.png",
+    "static/media/aot.jpg": "/React-App/static/media/aot.d3a997568982da1066e8.jpg",
+    "static/media/naruto.jpg": "/React-App/static/media/naruto.12e86621139c242c21fe.jpg",
+    "static/media/loginimg.png": "/React-App/static/media/loginimg.4f250d0aa66776469e37.png",
+    "static/media/bleachbanner.png": "/React-App/static/media/bleachbanner.efc7b213ed8565af38cb.png",
+    "static/media/onefolder.png": "/React-App/static/media/onefolder.03b3506b44b7dbe17c1d.png",
+    "static/media/bleach.jpg": "/React-App/static/media/bleach.98b29543b059abbc0513.jpg",
+    "static/media/aotbanner.jpeg": "/React-App/static/media/aotbanner.934b8cb244da84d17a32.jpeg",
+    "static/media/banner.jpg": "/React-App/static/media/banner.d158b3b3c7a316309bb0.jpg",
+    "static/media/searchimg.png": "/React-App/static/media/searchimg.1571adc2d68c532b38f2.png",
+    "static/media/df.jpg": "/React-App/static/media/df.c3059baf5a515b8942ee.jpg",
+    "static/media/main-logo.png": "/React-App/static/media/main-logo.f66e1e15c8a9dd53aa0f.png",
+    "index.html": "/React-App/index.html",
+    "main.058f1997.css.map": "/React-App/static/css/main.058f1997.css.map",
+    "main.12b4daa7.js.map": "/React-App/static/js/main.12b4daa7.js.map"
   },
   "entrypoints": [
     "static/css/main.058f1997.css",
-    "static/js/main.312f78b1.js"
+    "static/js/main.12b4daa7.js"
   ]
 }
